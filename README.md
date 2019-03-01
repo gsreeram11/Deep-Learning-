@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-
+# Stock-Price-Prediction
 
 The availability of data has facilitated the creation of several new research methodologies, one such methodology is deep learning. 
 It is a subfield of Machine Learning focussed on learning representations of the input data through successive layers of representation. 
@@ -23,4 +23,4 @@ The primary purpose of this project is to create a base stock price prediction m
 technical indicators and momentum buys/sells in my analysis in the coming future in order to make the model more robust and the 
 prediction more accurate in real-time. 
 
-![alt text](Desktop/performance.png)
+![](Desktop/performance.png)
