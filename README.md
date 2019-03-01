@@ -23,4 +23,4 @@ The primary purpose of this project is to create a base stock price prediction m
 technical indicators and momentum buys/sells in my analysis in the coming future in order to make the model more robust and the 
 prediction more accurate in real-time. 
 
-![](Desktop/performance.png)
+![](ModelStats.png)
